@@ -1,0 +1,13 @@
+#gameScreen{
+    border: 2px solid white ;
+    background-color: black;
+}
+
+.title{
+    color:white;
+}
+
+body{
+    text-align: center;
+    background-color: black;
+}
